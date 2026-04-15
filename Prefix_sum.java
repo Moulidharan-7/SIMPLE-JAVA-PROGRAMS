@@ -10,4 +10,3 @@ public class Prefix_sum {
         }
         System.out.println(Arrays.toString(prefix_arr));
     }
-}
